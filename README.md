@@ -1,144 +1,85 @@
-<!-- Modern & Aesthetic Profile README for Gene (@gj1342) -->
+<!-- Profile README — Gene Joshua Bañaga (@gj1342) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,100:1e293b&section=header&fontAlignY=32" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Gene+%F0%9F%91%8B" alt="Hi, I'm Gene animated title" />
-</p>
-
-<h3 align="center">Web Developer • Builder • Creative from the 🇵🇭 Philippines</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&lines=Web+Developer;Open+to+opportunities;Love+building+cool+things;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=30&duration=4000&pause=1200&color=E2E8F0&center=true&vCenter=true&multiline=true&width=640&height=100&lines=Gene+Joshua+Bañaga;Full-stack+software+developer" alt="Animated title" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/gj1342"><img src="https://img.shields.io/github/followers/gj1342?label=Followers&style=social" alt="GitHub Followers"/></a>
-  <a href="https://portfolio-cyan-eight-23.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=vercel" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gj1342&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <sub>Philippines · Web platforms, APIs, and maintainable architecture</sub>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-- 💼 **Web Developer** | **Hireable**
-- 🌍 Based in the **Philippines**
-- 🛠️ Passionate about web experiences & creative solutions
-- 🤝 Open to collaborations & new opportunities
-- 📅 Joined GitHub: *April 2018*
-
----
-
-## ⚡ Skills
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://genejoshuabanaga-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/genejoshuabanaga-116767292/"><img src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bgenejoshua@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/gj1342?tab=followers"><img src="https://img.shields.io/github/followers/gj1342?label=followers&style=flat-square&logo=github&color=0f1728&labelColor=1e293b" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gj1342&label=views&style=flat-square&color=1e293b" alt="Profile views" />
 </p>
 
----
+<br />
 
-## 🚀 Featured Projects
+## About
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Tools Used</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gj1342/Komunika"><b>Komunika</b></a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-      </td>
-      <td>
-        Android app: Voice ↔ Filipino Sign Language
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gj1342/Sign-Language-Prediction-Training-and-Validation"><b>Sign Language Prediction</b></a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-      </td>
-      <td>
-        AI training for sign language detection
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gj1342/python-chat-app"><b>Python Chat App</b></a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-      </td>
-      <td>
-        Real-time Python chat application
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gj1342/AmberStock"><b>AmberStock</b></a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-      </td>
-      <td>
-        Inventory system (C#)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gj1342/mern-project-1-exercise"><b>MERN Product Manager</b></a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      </td>
-      <td>
-        Product management system using MERN stack
-      </td>
-    </tr>
-  </table>
-</div>
+Full-stack developer focused on **clear interfaces**, **REST and Node backends**, and **tested releases**. I care about architecture, accessibility, and performance on real projects.
 
----
+**Education:** B.S. Information Technology, Polytechnic University of the Philippines Lopez Campus · GPA 1.59 · Sept 2021 – Mar 2026
 
-## 📊 GitHub Stats
+<br />
+
+## Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gj1342&show_icons=true&theme=radical" alt="Gene's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gj1342&theme=radical" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,mongodb,firebase,py,kotlin,tensorflow,git,vercel&perline=8" alt="Tech stack icons" />
 </p>
 
----
+<br />
 
-## 🌐 Find Me Online
+## Experience
 
-- Portfolio: [portfolio-cyan-eight-23.vercel.app](https://portfolio-cyan-eight-23.vercel.app)
-- GitHub: [gj1342](https://github.com/gj1342)
+| Role | Org | Focus |
+|------|-----|--------|
+| Fullstack Developer | CoDev · Codebility · *Feb 2026 – Present* | Firebase RBAC, activity audit logs, real-time events |
+| IT & Web Maintenance Intern | AHEAD Tutorials and Review · *Oct 2025 – Present* | Intern workflows, layout standards, Figma wireframes |
+| Fullstack Developer Intern | Uzaro Solutions Tech Inc. · *Apr 2025 – Sep 2025* | REST APIs (Node/MongoDB), modular React UI, Scrum |
+
+<br />
+
+## Featured work
+
+| Project | Summary |
+|---------|---------|
+| **Komunika** | Filipino Sign Language recognition on Android — TensorFlow, MediaPipe, CNN–GRU. [GitHub](https://github.com/gj1342/komunika-v2) |
+| **Blueprint OS** | Tool-agnostic AI agent workflow — skills, quality gates, automation-friendly pipelines. [Live site](https://blueprint-os-landing-page.vercel.app/) |
+| **Innovative Sphere** | Capstone idea generator — Mistral, Node/Express, performance-minded UI. [Live site](https://innovativesphere.vercel.app/) |
+| **Trace of You** | Multimedia archive MVP — REST APIs, Spotify integration, modular React. [Live site](https://trace-of-you-app.vercel.app/) |
+
+<br />
+
+## Live GitHub stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gj1342&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gj1342&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=gj1342&theme=nord&hide_border=true&mode=daily" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gj1342&theme=nord&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://genejoshuabanaga-portfolio.vercel.app/">genejoshuabanaga-portfolio.vercel.app</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1e293b,100:0f172a&section=footer" alt="" />
 </p>
